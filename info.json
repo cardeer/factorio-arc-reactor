@@ -1,0 +1,10 @@
+{
+  "name": "arc-reactor",
+  "version": "1.0.0",
+  "title": "Arc Reactor",
+  "author": "Dev",
+  "factorio_version": "2.0.0",
+  "dependencies": [
+    "base >= 2.0.0"
+  ]
+}
